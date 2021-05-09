@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialNetwork</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="logo">logo</string>
+    <string name="update_post">Update Post</string>
+    <string name="discrption">Discrption</string>
+</resources>
